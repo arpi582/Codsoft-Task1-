@@ -1,2 +1,4 @@
 # Codsoft-Task1-
-Codsoft Task 1(Calculator)
+This repo maintained for the CodSoft Internship Program. The duration of the internship will be of 4 weeks, starting from 5 July 2024 to 5 August 2024 The internship is an educational opportunity for you hence the primary focus is on learning and developing new skills and gaining hands-on knowledge. As an intern, I will perform all assigned tasks to the best of my ability and follow lawful and reasonable instructions provided by CODSOFT. I am confident that this internship will be a valuable experience for me, I look forward to working with CODSOFT and achieve my career goals.
+
+(About this Project) TASK 1 CALCULATOR Design a simple calculator with basic arithmetic operations.Prompt the user to input two numbers and an operation choice. Perform the calculation and display the result.
